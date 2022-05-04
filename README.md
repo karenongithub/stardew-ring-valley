@@ -17,7 +17,7 @@ Stardew Valley is a calming, farm and dating simulator. In Stardew Valley, playe
 
 Elden Ring is a dark fantasy, action role-playing game. Elden Ring descends from the Souls series games, which are notorious for their difficulty. As opposed to Stardew Valley, there will be few to no friendly non-playable characters in Elden Ring as players combat escalatingly more difficult bosses and monsters to level up.
 
-The data analyst in this project has played neither games. Given the different tones of each game, a classifier model will be built to see if the games can be distinguished through their Reddit posts.
+Given the different tones of each game, a classifier model will be built to see if the games can be distinguished through their Reddit posts.
 
 ## Data Collection
 
