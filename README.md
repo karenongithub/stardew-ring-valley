@@ -51,7 +51,6 @@ Using GridSearch, the following models were produced.
 |Model|Best Train Score|Best Test Score|Best Parameters|
 |---|---|---|---|
 |Logistic Regression|92.0|82.0|{'C': 0.1, 'max_iter': 1000}|
-|KNN Classifier|95.0|64.0|{'n_neighbors': 30, 'p': 2, 'weights': 'distance'}|
 |Multinomial Naive Bayes|91.0|82.0|{'alpha': 0.5}|
 |Random Forest Classifier|95.0|80.0|{'max_depth': None, 'n_estimators': 400}|
 
